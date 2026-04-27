@@ -80,4 +80,4 @@
 ```bash
 git clone https://github.com/ваш-логин/salon-crm.git
 cd salon-crm
-# Загрузите на GitHub и включите GitHub Pages в настройках
+
